@@ -1,4 +1,7 @@
-%% An example of amplitude spectrum and phase spectrum of a complex function
+% Fourier Transforms, Amplitude and Phase Spectra
+% Completed during MS Geophysics at the University of Western Ontario
+% MATLAB code by Benjamin Consolvo
+% Updated in 10/2015
 
 close all;
 clc;
