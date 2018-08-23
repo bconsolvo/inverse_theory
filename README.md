@@ -1,2 +1,2 @@
 # Inverse theory
-The code contained in this repository is for use in the time series analysis and inverse theory course. I wrote this code during my MS in Geophysics from 2015 to 2017, while studying full-waveform inversion under Dr. R. Gerhard Pratt. Much of my understanding of geophysics developed during these seminal 2 years. Please let me know if you have found any of the code useful, or need help with any of it.
+The code contained in this repository is for use in an inverse theory course. I wrote this code during mmostly in 2015. Please let me know if you have found any of the code useful, or need help with any of it.
